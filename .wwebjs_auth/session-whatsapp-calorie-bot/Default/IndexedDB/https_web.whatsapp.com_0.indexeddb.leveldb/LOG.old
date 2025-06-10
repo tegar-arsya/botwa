@@ -1,0 +1,15 @@
+2025/06/09-17:21:27.863 1eec Reusing MANIFEST E:\BOT-Whatsapp\.wwebjs_auth\session-whatsapp-calorie-bot\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/06/09-17:21:27.880 1eec Recovering log #46
+2025/06/09-17:21:28.004 1eec Reusing old log E:\BOT-Whatsapp\.wwebjs_auth\session-whatsapp-calorie-bot\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000046.log 
+2025/06/09-17:21:28.004 1eec Delete type=2 #44
+2025/06/09-17:21:28.004 1eec Delete type=2 #47
+2025/06/09-17:21:33.060 320c Level-0 table #51: started
+2025/06/09-17:21:33.101 320c Level-0 table #51: 1082922 bytes OK
+2025/06/09-17:21:33.104 320c Delete type=0 #46
+2025/06/09-17:21:33.105 320c Manual compaction at level-0 from '\x00\x1e\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x1f\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/06/09-17:21:36.320 320c Compacting 1@1 + 1@2 files
+2025/06/09-17:21:36.488 320c Generated table #52@1: 32956 keys, 1260883 bytes
+2025/06/09-17:21:36.488 320c Compacted 1@1 + 1@2 files => 1260883 bytes
+2025/06/09-17:21:36.490 320c compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/06/09-17:21:36.491 320c Delete type=2 #48
+2025/06/09-17:21:36.491 320c Delete type=2 #51
